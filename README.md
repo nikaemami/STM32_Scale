@@ -1,10 +1,10 @@
 # STM32_Scale
-implementation of a scale with a loadcell in STM32 micro-processor
+implementation of a scale with a **loadcell** in STM32 micro-processor
 
 
-In this project, an experiment was designed to determine the value of the resistor on each pin of the microcontroller. In the later steps of the project, I used an ADC623 to convert the measured weight to a voltage.
+In this project, an experiment was designed to determine the value of the resistor on each pin of the micro-controller. In the later steps of the project, I used an **ADC623** to convert the measured weight to a voltage.
 
-First, I indicated the resistor values on each pin of the loadcell. Using the knowledge that the resistance on each pin is equal to R||3R, the resistance values are measured as below:
+First, I indicated the resistor values on each pin of the loadcell. Using the knowledge that the resistance on each pin is equal to **R||3R**, the resistance values are measured as below:
 
 <img src="images/IMG_4969.jpg" width="350" height="300">
 
